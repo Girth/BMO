@@ -1,0 +1,7 @@
+{
+    "server1_url": "<REPLACE_ME>",
+    "server1_port": "6667",
+    "server1_channels": "<REPLACE_ME>",
+    "imgur_client_id": "<REPLACE_ME>",
+    "imgur_client_secret": "<REPLACE_ME"
+}
